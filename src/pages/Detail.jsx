@@ -218,7 +218,7 @@ export default function Detail() {
         </div>
 
         <p className="text-slate-300 text-[8px] font-bold tracking-[0.2em] uppercase italic">
-          © {new Date().getFullYear()} • E-Pohon Bappeda Sleman
+          © {new Date().getFullYear()} • Puspa Bappeda Sleman
         </p>
       </footer>
     </div>

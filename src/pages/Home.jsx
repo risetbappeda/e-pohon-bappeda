@@ -40,7 +40,7 @@ export default function Home() {
 
         <div className="relative z-10 max-w-4xl mx-auto px-4 animate-fade-in-up pt-16 pb-16">
           <span className="inline-block bg-emerald-500/20 text-emerald-300 px-3 py-1 rounded-full text-[8px] md:text-[10px] font-black uppercase tracking-[0.3em] mb-6 border border-emerald-500/30">
-            E-Pohon BAPPEDA SLEMAN
+            PUSPA BAPPEDA SLEMAN
           </span>
           <h2 className="text-4xl md:text-7xl font-black mb-6 leading-tight tracking-tighter">
             Digitalisasi Flora <br />
@@ -168,7 +168,7 @@ export default function Home() {
         </div>
 
         <p className="text-slate-300 text-[8px] font-bold tracking-[0.2em] uppercase italic">
-          © {new Date().getFullYear()} • E-Pohon Bappeda Sleman
+          © {new Date().getFullYear()} • Puspa Bappeda Sleman
         </p>
       </footer>
     </div>
