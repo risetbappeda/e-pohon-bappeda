@@ -37,7 +37,7 @@ export default function Navbar({ isDetail = false }) {
               />
               <div className="flex flex-col">
                 <h1 className="text-sm font-extrabold tracking-tight leading-none text-slate-900">
-                  Puspa
+                  PUSPA
                 </h1>
                 <p className="text-[7px] font-black text-emerald-600 uppercase tracking-widest mt-1.5 leading-none">
                   Bappeda Sleman
